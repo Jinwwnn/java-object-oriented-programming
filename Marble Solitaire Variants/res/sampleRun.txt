@@ -1,0 +1,143 @@
+Cross Solitaire Model: 
+Initial board state: 
+    O O O     
+    O O O     
+O O O O O O O 
+O O O . O O O 
+O O O O O O O 
+    O O O     
+    O O O     
+Marbles remaining: 32
+
+Board state after moving the marble at (3, 1) to (3, 3):
+    O O O     
+    O O O     
+O O O O O O O 
+O . . O O O O 
+O O O O O O O 
+    O O O     
+    O O O     
+Marbles remaining: 31
+
+Board state after moving the marble at (1, 2) to (3, 2):
+    O O O     
+    . O O     
+O O . O O O O 
+O . O O O O O 
+O O O O O O O 
+    O O O     
+    O O O     
+Marbles remaining: 30
+
+
+--------------------------------------------------
+Cross Solitaire Model with empty slot at (2, 2):
+    O O O     
+    O O O     
+O O . O O O O 
+O O O O O O O 
+O O O O O O O 
+    O O O     
+    O O O     
+Marbles remaining: 32
+
+Board state after moving the marble at (2, 0) to (2, 2):
+    O O O     
+    O O O     
+. . O O O O O 
+O O O O O O O 
+O O O O O O O 
+    O O O     
+    O O O     
+Marbles remaining: 31
+
+Board state after moving the marble at (4, 0) to (2, 0):
+    O O O     
+    O O O     
+O . O O O O O 
+. O O O O O O 
+. O O O O O O 
+    O O O     
+    O O O     
+Marbles remaining: 30
+
+
+--------------------------------------------------
+--------------------------------------------------
+
+Diamond Solitaire Model:
+        O         
+      O O O       
+    O O O O O     
+  O O O O O O O   
+O O O O . O O O O 
+  O O O O O O O   
+    O O O O O     
+      O O O       
+        O         
+Marbles remaining: 40
+
+Board state after moving the marble at (4, 2) to (4, 4):
+        O         
+      O O O       
+    O O O O O     
+  O O O O O O O   
+O O . . O O O O O 
+  O O O O O O O   
+    O O O O O     
+      O O O       
+        O         
+Marbles remaining: 39
+
+Board state after moving the marble at (2, 2) to (4, 2):
+        O         
+      O O O       
+    . O O O O     
+  O . O O O O O   
+O O O . O O O O O 
+  O O O O O O O   
+    O O O O O     
+      O O O       
+        O         
+Marbles remaining: 38
+
+
+--------------------------------------------------
+Diamond Solitaire Model with empty slot at (3, 3):
+        O         
+      O O O       
+    O O O O O     
+  O O . O O O O   
+O O O O O O O O O 
+  O O O O O O O   
+    O O O O O     
+      O O O       
+        O         
+Marbles remaining: 40
+
+Board state after moving the marble at (1, 5) to (3, 3):
+        O         
+      O O .       
+    O O . O O     
+  O O O O O O O   
+O O O O O O O O O 
+  O O O O O O O   
+    O O O O O     
+      O O O       
+        O         
+Marbles remaining: 39
+
+Board state after moving the marble at (1, 3) to (1, 5):
+        O         
+      . . O       
+    O O . O O     
+  O O O O O O O   
+O O O O O O O O O 
+  O O O O O O O   
+    O O O O O     
+      O O O       
+        O         
+Marbles remaining: 38
+
+
+Process finished with exit code 0
